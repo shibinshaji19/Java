@@ -1,1 +1,1 @@
-
+The Bowling Score Calculator is a Java console-based application that simulates a bowling game between two players. It demonstrates object-oriented programming concepts and handles scoring logic including strikes, spares, and multiple frames.
