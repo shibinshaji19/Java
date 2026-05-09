@@ -1,1 +1,1 @@
-
+This application is a simple GUI-based Notepad application developed in Java using the Swing library. The application allows users to create, open, and save text files through an interactive desktop interface. It also includes a dark/light mode feature for improved user experience.
