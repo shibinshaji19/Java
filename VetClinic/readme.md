@@ -1,0 +1,1 @@
+This project is a Java Swing-based desktop application designed to manage veterinary patient registrations. The application allows users to enter patient and owner information, validate email addresses, select a veterinarian, and save registration details to a file.
